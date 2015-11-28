@@ -1,0 +1,7 @@
+{
+	"name": "lambda-get-s3-file",
+	"description": "A no dependency library for getting a smallish file from AWS S3. Made for getting .env files from S3 for Lambda functions.",
+	"version": "0.0.1",
+	"main": "lib/main.js",
+	"dependencies": {}
+}
